@@ -18,7 +18,7 @@ outputMessage = headerMessage + outputMessage;
 if ( showTable ) {
   console.log(outputMessage);
 }
-
+ 
 const outputPath = `outputs`;
 
 
